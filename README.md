@@ -1,4 +1,4 @@
-# Hi there <img height="100em"  src="https://em-content.zobj.net/source/microsoft-teams/363/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> I’m currently working on a private project. <img height="100em"  src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png"> <img height="100em" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif">
+# Hi there <img height="50em"  src="https://em-content.zobj.net/source/microsoft-teams/363/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> I’m currently working on a private project. <img height="50em"  src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png"> <img height="50em" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif">
                          
                          
                          
