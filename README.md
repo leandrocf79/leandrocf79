@@ -1,6 +1,13 @@
 # Hi there 👋 I’m currently working on a private project. 🤖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&show_icons=true&theme=transparent)
 <!--
+
+Editar  github visite este link para pegar os modelos. Pode inserir HTML aqui que será aceito
+
+https://github.com/anuraghazra/github-readme-stats#all-demos
+https://emojipedia.org/pt/animated-noto-color-emoji/15.0/rosto-de-rob%C3%B4/
+
+
 **leandrocf79/leandrocf79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
