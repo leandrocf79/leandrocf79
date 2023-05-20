@@ -1,6 +1,7 @@
 # Hi there 👋 I’m currently working on a private project. 🤖 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&hide=contribs,prs)
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif">
 <!--
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&show_icons=true&theme=Hiding_specific_stats)
