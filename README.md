@@ -1,4 +1,4 @@
-# Hi there 👋 I’m currently working on a private project. 🤖 
+# Hi there 👋 I’m currently working on a private project. <img height="10%" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&hide=contribs,prs)
 
