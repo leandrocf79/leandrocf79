@@ -1,6 +1,6 @@
 # Hi there 👋 I’m currently working on a private project. 🤖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&show_icons=true&theme=Hiding_specific_stats) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&hide=contribs,prs)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocf79&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 Editar  github visite este link para pegar os modelos. Pode inserir HTML aqui que será aceito
