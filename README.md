@@ -1,5 +1,5 @@
 # Hi there 👋 I’m currently working on a private project. 🤖
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&show_icons=true&theme=default)
 <!--
 
 Editar  github visite este link para pegar os modelos. Pode inserir HTML aqui que será aceito
