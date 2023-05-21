@@ -1,6 +1,7 @@
 # Hi there <img height="50px" width="px" src="https://em-content.zobj.net/source/microsoft-teams/363/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> I’m currently working on a private project. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&hide=contribs,prs) <img height="50px" width="50px" margin-left="30%" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png"> <img height="50px" width="50px" align="center" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif">     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrocf79&hide=contribs,prs) 
+<img height="50px" width="50px" margin-left="30%" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png"> <img height="50px" width="50px" align="center" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif">     
                          
                          
                          
